@@ -18,7 +18,7 @@ A directory path from command-line arguments.
 
 ### Decisions
 
-To be determined.
+Finished.
 
 ### Test Cases
 
@@ -26,3 +26,24 @@ To be determined.
 - Directory containing regular files 
 - Directory containing subdirectories
 - Invalid directory path
+
+All Passed,
+
+## Milestone 1: Recursive Direcotry Traversal
+
+### Goal
+
+List all regular files in a specified directory including sub directories recursively.
+
+### Input 
+
+A directory path from command-line arguments.
+
+### Questions
+
+- How do I read sub directories?
+- How do I print the full-path?
+
+### Decisions
+
+To be determined.
